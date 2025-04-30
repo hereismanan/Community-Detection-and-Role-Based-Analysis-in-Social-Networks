@@ -86,7 +86,7 @@ jupyter notebook
 ![Full Graph](images/Graph_Insights.png)
 
 #### Printed Metrics
-![Metrics](images/Community Structure with Anomalies, Hubs and Articulation Points of Graph)
+![Metrics](images/Community_Roles.png)
 
 
 ## 🌍 Applications
