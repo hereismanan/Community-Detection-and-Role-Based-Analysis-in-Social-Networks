@@ -69,7 +69,7 @@ jupyter notebook
 
 ---
 
-## 📷 Visual Output (Sample)
+## 📷 Visual Output 
 
 - Community Structure with role-encoded nodes  
 - Printed metrics per graph  
@@ -80,6 +80,14 @@ jupyter notebook
 > ✳️ Large Gold → Hub
 
 ---
+### 📷 Sample Output
+
+#### Graph with Communities and Roles
+![Full Graph](images/Graph_Insights.png)
+
+#### Printed Metrics
+![Metrics](images/Community Structure with Anomalies, Hubs and Articulation Points of Graph)
+
 
 ## 🌍 Applications
 
